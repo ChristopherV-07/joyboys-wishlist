@@ -1,0 +1,15 @@
+.wishlist{
+  width:65%;
+  background-color:rgb(199, 172, 146);
+  text-align: center;
+  margin: auto;
+}
+
+body{
+  background-color:rgb(212, 224, 155);
+}
+
+img{
+  width: auto;
+  max-width: 80%;
+}
